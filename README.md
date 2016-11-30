@@ -23,7 +23,11 @@
 	
 	
 	<p><b>Chapter 4</p><b>
+<<<<<<< HEAD
 In his old age, he became a world class  	
+=======
+In his old age, he became a world class extreme sport athlete. He would frequently skydive, as well as go volcano boarding in Nicaragua.	
+>>>>>>> origin/master
 >>>>>>> origin/master
 </BODY>
 </HTML>
