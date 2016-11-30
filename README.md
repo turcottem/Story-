@@ -1,5 +1,7 @@
 # Story-
 <HTML>
+<style>
+<p>center</p>
 	<HEAD>
 		<TITLE>
 		Story Time
