@@ -6,11 +6,11 @@
 		</TITLE>
 		</HEAD>
 <BODY>
-   <H1>Story Of Jimbo Bob:</H1>
-   <p>And his misadventures</p>
+   <H1>Story Of Jimbo Bob:
+   And his misadventures
 
-	<H2>Chapter 1:</H2>
-	<H3>Written by Brody Leidy</H3>
+	Chapter 1:
+	Written by Brody Leidy</H1>
 	<p2> As a child Jimbo Bob was quite the young laddy, who constantly amazed people that did not 
 	recodnise him. When they walked away they found that there wallets were emptied. In magazines for his knak
 	of magic and incredible fitness (especially for a child) and athletic ability. Many people thought
@@ -23,8 +23,7 @@
 	
 	
 	<p><b>Chapter 4</p><b>
-<
-In his old age, he became a world class  	
+<	
 =======
 In his old age, he became a world class extreme sport athlete. He would frequently skydive, as well as go volcano boarding in Nicaragua.	
 >>>>>>> origin/master
