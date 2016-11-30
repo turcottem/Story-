@@ -6,7 +6,7 @@
 		</TITLE>
 		</HEAD>
 <BODY>
-   <H1>Story Of Jimbo Bob:
+   Story Of Jimbo Bob:
    And his misadventures
 
 	Chapter 1:
@@ -22,7 +22,7 @@
 	
 	
 	
-	<p><b>Chapter 4</p><b>
+	<h2>Chapter 4</h2>
 <	
 =======
 In his old age, he became a world class extreme sport athlete. He would frequently skydive, as well as go volcano boarding in Nicaragua.	
