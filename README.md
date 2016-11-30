@@ -22,7 +22,7 @@
 	
 	
 	
-	Chapter 4
-In his old age, he became a world class extreme sport athlete. He would frequently skydive, as well as go volcano boarding in Nicaragua.	
+	Chapter 4:
+	In his old age, he became a world class extreme sport athlete. He would frequently skydive, as well as go volcano boarding in Nicaragua.	
 </BODY>
 </HTML>
