@@ -1,7 +1,5 @@
 # Story-
 <HTML>
-<style>
-<p>center</p>
 	<HEAD>
 		<TITLE>
 		Story Time
@@ -9,6 +7,5 @@
 		</HEAD>
 <BODY>
    <H1>Story Of Jimbo Bob</H1>
-	<p><b>Chapter 1</b></P>
 </BODY>
 </HTML>
